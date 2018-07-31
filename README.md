@@ -1,2 +1,2 @@
 # portfolio
-# thisis modern style portfoloio
+# this is modern style portfolio

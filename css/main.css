@@ -24,7 +24,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.8;
+  opacity: 0.95;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -55,7 +55,8 @@
   .menu .portrait {
     width: 200px;
     height: 200px;
-    background: url("../img/bmw.jpg");
+    background: url("../img/Raman2.jpg");
+    background-position: center;
     border-radius: 100%;
     border: solid 3px #eece1a; }
   .menu .nav-item {
